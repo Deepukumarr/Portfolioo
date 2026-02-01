@@ -55,7 +55,7 @@ export const skills = [
     title: 'Database Management',
     icon: FaDatabase,
     description: 'Designing and optimizing databases for performance and scalability.',
-    tags: ['MongoDB', 'Mongoose']
+    tags: ['MongoDB']
   },
   {
     title: 'Languages',
@@ -79,62 +79,62 @@ export const skills = [
 
 
 
-export const projects = [
-  {
-    title: "E-Commerce Platform",
-    description: "A full-featured online store with shopping cart, user authentication, and payment processing.",
-    image: projectImg1,
-    tech: ["React", "Node.js", "MongoDB", "Stripe"],
-    icons: [FaReact, FaNodeJs, FaDatabase, FaStripe],
-    demo: "#",
-    code: "#",
-  },
-  {
-    title: "Task Management App",
-    description: "A productivity application with drag-and-drop functionality and real-time updates.",
-    image: projectImg2,
-    tech: ["Vue.js", "Firebase", "Tailwind CSS", "WebSockets"],
-    icons: [FaVuejs, FaFire, FaCloud, FaDatabase],
-    demo: "#",
-    code: "#",
-  },
-  {
-    title: "Fitness Tracker",
-    description: "A mobile app for tracking workouts, nutrition, and health metrics.",
-    image: projectImg3,
-    tech: ["React Native", "GraphQL", "MySQL", "Chart.js"],
-    icons: [FaReact, FaDatabase],
-    demo: "#",
-    code: "#",
-  },
-  {
-    title: "Portfolio Website",
-    description: "A personal portfolio to showcase projects, skills, and blogs with dark/light mode support.",
-    image: projectImg4,
-    tech: ["Next.js", "Tailwind CSS", "Framer Motion", "Markdown"],
-    icons: [FaReact, FaCloud],
-    demo: "#",
-    code: "#",
-  },
-  {
-    title: "Chat App",
-    description: "A real-time chat application with group messaging, emojis, and file sharing.",
-    image: projectImg5,
-    tech: ["Socket.IO", "React", "Node.js", "MongoDB"],
-    icons: [FaReact, FaNodeJs, FaDatabase],
-    demo: "#",
-    code: "#",
-  },
-  {
-    title: "AI Image Generator",
-    description: "Generate images using AI prompts powered by OpenAI's DALL·E model and Cloudinary.",
-    image: projectImg6,
-    tech: ["React", "OpenAI API", "Cloudinary", "Tailwind CSS"],
-    icons: [FaRobot, FaReact, FaCloud],
-    demo: "#",
-    code: "#",
-  }
-];
+// export const projects = [
+//   {
+//     title: "E-Commerce Platform",
+//     description: "A full-featured online store with shopping cart, user authentication, and payment processing.",
+//     image: projectImg1,
+//     tech: ["React", "Node.js", "MongoDB", "Stripe"],
+//     icons: [FaReact, FaNodeJs, FaDatabase, FaStripe],
+//     demo: "#",
+//     code: "#",
+//   },
+//   {
+//     title: "Task Management App",
+//     description: "A productivity application with drag-and-drop functionality and real-time updates.",
+//     image: projectImg2,
+//     tech: ["Vue.js", "Firebase", "Tailwind CSS", "WebSockets"],
+//     icons: [FaVuejs, FaFire, FaCloud, FaDatabase],
+//     demo: "#",
+//     code: "#",
+//   },
+//   {
+//     title: "Fitness Tracker",
+//     description: "A mobile app for tracking workouts, nutrition, and health metrics.",
+//     image: projectImg3,
+//     tech: ["React Native", "GraphQL", "MySQL", "Chart.js"],
+//     icons: [FaReact, FaDatabase],
+//     demo: "#",
+//     code: "#",
+//   },
+//   {
+//     title: "Portfolio Website",
+//     description: "A personal portfolio to showcase projects, skills, and blogs with dark/light mode support.",
+//     image: projectImg4,
+//     tech: ["Next.js", "Tailwind CSS", "Framer Motion", "Markdown"],
+//     icons: [FaReact, FaCloud],
+//     demo: "#",
+//     code: "#",
+//   },
+//   {Ecommerce. Project. 
+//     title: "Chat App",
+//     description: "A real-time chat application with group messaging, emojis, and file sharing.",
+//     image: projectImg5,
+//     tech: ["Socket.IO", "React", "Node.js", "MongoDB"],
+//     icons: [FaReact, FaNodeJs, FaDatabase],
+//     demo: "#",
+//     code: "#",
+//   },
+//   {
+//     title: "AI Image Generator",
+//     description: "Generate images using AI prompts powered by OpenAI's DALL·E model and Cloudinary.",
+//     image: projectImg6,
+//     tech: ["React", "OpenAI API", "Cloudinary", "Tailwind CSS"],
+//     icons: [FaRobot, FaReact, FaCloud],
+//     demo: "#",
+//     code: "#",
+//   }
+// ];
 
 
 export const workData = [

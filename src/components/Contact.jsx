@@ -1,6 +1,6 @@
 import React from 'react'
 import { motion } from 'framer-motion'
-import { FaEnvelope, FaGithub, FaMapMarked, FaMapMarkerAlt, FaPhone } from 'react-icons/fa'
+import { FaEnvelope, FaGithub, FaMapMarked, FaMapMarkerAlt, FaPhone,FaLinkedin } from 'react-icons/fa'
 
 const Contact = () => {
 
@@ -94,7 +94,12 @@ const Contact = () => {
                                     {/* <a href="" className='w-12 h-12 rounded-full bg-dark-400  flex items-center justify-center text-white hover:text-blue-300'>
                                             <FaEnvelope/>
                                         </a> */}
-
+                                        <a
+                                        href="https://www.linkedin.com/in/deepu-kumar-a43ab6225/"
+                                        className='w-12 h-12 rounded-full bg-dark-400 flex items-center justify-center text-white hover:text-blue-300'
+                                    >
+                                        <FaLinkedin />
+                                    </a>
                                     <a
                                         href="mailto:deepuxd06@gmail.com"
                                         className='w-12 h-12 rounded-full bg-dark-400 flex items-center justify-center text-white hover:text-blue-300'
@@ -102,6 +107,8 @@ const Contact = () => {
                                         <FaEnvelope />
                                     </a>
 
+                                    
+                                    
                                 </div>
                             </div>
 
