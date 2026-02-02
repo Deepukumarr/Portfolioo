@@ -15,7 +15,7 @@ export const Home = () => {
       <About/>
       <Skills/>
       <Projects/>
-      <Work/>
+      {/* <Work/> */}
       <Contact/>
     </div>
   )

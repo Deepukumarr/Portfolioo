@@ -15,7 +15,6 @@ const NavBar = () => {
                     <a href="#" className='text-3xl font-bold text-white'>
                         Deepu
                         <span className='text-purple'>Kumar</span>
-                        <div className="w-4 h-4 bg-purple rounded-full"></div>
                     </a>
                 </div>
                 <div className='hidden md:flex space-x-10'>
@@ -35,10 +34,10 @@ const NavBar = () => {
                         <span>Projects</span>
                         <span className='absolute left-0 -bottom-1 w-0 h-0.5 bg-purple transition-all duration-300 group-hover:w-full '></span>
                     </a>
-                    <a href="#experience" className='relative text-white/80 transition duration-300 hover:text-purple group'>
+                    {/* <a href="#experience" className='relative text-white/80 transition duration-300 hover:text-purple group'>
                         <span>Experience</span>
                         <span className='absolute left-0 -bottom-1 w-0 h-0.5 bg-purple transition-all duration-300 group-hover:w-full '></span>
-                    </a>
+                    </a> */}
                     <a href="#contact" className='relative text-white/80 transition duration-300 hover:text-purple group'>
                         <span>Contact</span>
                         <span className='absolute left-0 -bottom-1 w-0 h-0.5 bg-purple transition-all duration-300 group-hover:w-full '></span>

@@ -40,8 +40,9 @@ const About = () => {
             className='md:w-1/2'>
             <div className="rounded 2xl p-8">
               <h3 className='text-2xl font-semibold mb-6'>My Journey</h3>
-              <p className='text-gray-300 mb-6'>I'm a passionate full-stack developer with over 6 month of experience as an intern creating digital solutions for businesses around the world. My journey started with basic HTML/CSS websites and has evolved into building complex web applications with modern frameworks.</p>
-              <p className='text-gray-300 mb-6' >When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or sharing my knowledge through tech blogs and tutorials. I believe in continuous learning and pushing the boundaries of what's possible on the web.</p>
+              <p className='text-gray-300 mb-6'>I am a passionate Full-Stack Developer who enjoys building modern, scalable, and user-focused web applications. My journey began with creating simple websites using HTML and CSS, and over time, it evolved into developing complete applications using modern frontend and backend technologies.</p>
+              <p className='text-gray-300 mb-6' >I have worked on multiple self-driven projects that helped me gain a strong understanding of frontend frameworks, backend APIs, databases, and application flow. I focus on writing clean, maintainable code and creating smooth user experiences.</p>
+              <p className='text-gray-300 mb-6' >I love learning new technologies, experimenting with ideas, and continuously improving my skills by building real-world projects. For me, development is not just about writing code, but about solving problems and creating meaningful digital experiences.</p>
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6 ">
                 {
