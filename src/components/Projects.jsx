@@ -16,8 +16,8 @@ const projects = [
     description: "A platform for online courses with video lectures and quizzes.",
     image: projectyt,
     tech: [],
-    demo: "",
-    code: "",
+    demo: "https://lms-front-3cw3.onrender.com",
+    code: "https://github.com/Deepukumarr/LMS",
   },
   {
     title: "E-commerce Website",
