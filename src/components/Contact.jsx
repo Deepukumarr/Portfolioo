@@ -100,12 +100,12 @@ const Contact = () => {
                                     >
                                         <FaLinkedin />
                                     </a>
-                                    <a
+                                    {/* <a
                                         href="mailto:deepuxd06@gmail.com"
                                         className='w-12 h-12 rounded-full bg-dark-400 flex items-center justify-center text-white hover:text-blue-300'
                                     >
                                         <FaEnvelope />
-                                    </a>
+                                    </a> */}
 
                                     
                                     

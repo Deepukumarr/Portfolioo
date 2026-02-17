@@ -24,7 +24,7 @@ const projects = [
     description: "An E-commerce platform with product listings and shopping cart.",
     image: projectResume,
     tech: [],
-    demo: "https://super-meringue-7a538f.netlify.app/",
+    demo: "https://ecommerce-tud1.onrender.com",
     code: "https://github.com/Deepukumarr/Ecommerce",
   },
   {

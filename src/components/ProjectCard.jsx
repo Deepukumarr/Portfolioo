@@ -16,14 +16,14 @@ const ProjectCard = ({ title, description, image, tech }) => {
                         </span>
                     ))}
                 </div>
-                <div className='flex gap-2'>
+                {/* <div className='flex gap-2'>
                     <a href="https://youtube-clone-gold-seven.vercel.app/" className='flex-1 text-center px-4 py-2 bg-purple rounded-lg font-medium hover:bg-purple-700 transition duration'>
                         View Demo
                     </a>
                     <a href="https://github.com/uday2004-dev/youtube-clone" className='flex-1 text-center px-4 py-2 border border-purple font-medium rounded-lg hover:bg-purple/40 transition duration-300'>
 Code
                     </a>
-                </div>
+                </div> */}
             </div>
             </div>
     )

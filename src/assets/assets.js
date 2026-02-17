@@ -55,13 +55,13 @@ export const skills = [
     title: 'Database Management',
     icon: FaDatabase,
     description: 'Designing and optimizing databases for performance and scalability.',
-    tags: ['MongoDB']
+    tags: ['MongoDB','Mongoose']
   },
   {
     title: 'Languages',
     icon: SiJavascript,
     description: 'Writing dynamic, interactive, and efficient web applications using modern ES6+ features and also use other language',
-    tags: ["JavaScript (ES6+)",]
+  tags: ["JavaScript (ES6+)", "HTML5", "CSS3"]
   },
   // {
   //   title: 'Other Libraries',
@@ -73,7 +73,7 @@ export const skills = [
     title: 'Tools & Technologies',
     icon: FaTools,
     description: 'Essential tools and technologies I use in my development workflow.',
-    tags: ["Git", "Github", "Postman", "Netlify", "Figma"]
+    tags: ["Git", "Github", "Postman", "Netlify", "Figma", "Vercel"]
   }
 ];
 
