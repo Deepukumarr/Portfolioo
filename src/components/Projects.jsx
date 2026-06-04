@@ -6,9 +6,7 @@ import React from 'react'
 import { motion } from 'framer-motion'
 import projectResume from '../assets/image1.jpeg'
 import projectyt from "../assets/image2.jpeg"
-import projectAI from "../assets/image3.jpeg"
-
-
+import projectAI from "../assets/image3.png"
 
 const projects = [
   {
@@ -28,12 +26,12 @@ const projects = [
     code: "https://github.com/Deepukumarr/Ecommerce",
   },
   {
-       title: "Quick Chat App",
-    description: "A real-time chat application with group messaging, emojis, and file sharing.",
+       title: "Gaming Landing Page",
+    description: "Landing page featuring immersive visuals, smooth animations, responsive design.",
     image: projectAI,
     tech: [],
-    demo: "https://chat-app-client-eight-gold.vercel.app/login",
-    code: "https://github.com/Deepukumarr/Chat-APP",
+    demo: "https://award-winning-hh4e.onrender.com",
+    code: "https://github.com/Deepukumarr/Award-Winning",
   },
   //   {
   //      title: "Quick Chat App",
